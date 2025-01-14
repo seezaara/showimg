@@ -21,7 +21,7 @@
 To use Showimg.js, include the script in your HTML file:
 
 ```html
-<script src="https://raw.githubusercontent.com/seezaara/sharpimg/main/showimg.min.js"></script>
+<script src="https://raw.githubusercontent.com/seezaara/showimg/main/showimg.min.js"></script>
 ```
 
 
@@ -53,7 +53,7 @@ new Showimg({
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Showimg.js Example</title>
-    <script src="https://raw.githubusercontent.com/seezaara/sharpimg/main/showimg.min.js"></script>
+    <script src="https://raw.githubusercontent.com/seezaara/showimg/main/showimg.min.js"></script>
 </head>
 <body>
     <button id="openViewer">Open Viewer</button>
@@ -87,7 +87,7 @@ new Showimg({
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Real-Time Update Example</title>
-    <script src="https://raw.githubusercontent.com/seezaara/sharpimg/main/showimg.min.js"></script>
+    <script src="https://raw.githubusercontent.com/seezaara/showimg/main/showimg.min.js"></script>
 </head>
 <body>
     <button id="openViewer">Open Viewer</button>
