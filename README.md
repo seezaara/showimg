@@ -1,18 +1,18 @@
 # Showimg.js
 
-**Showimg.js** is a lightweight and versatile JavaScript plugin for creating interactive and customizable image and video viewers. It allows for smooth navigation, zooming, and dynamic content rendering, delivering an engaging user experience across devices.
+**Showimg.js** is a compact JavaScript plugin for creating interactive image and video viewers. It supports navigation, zooming, and dynamic content for an engaging user experience.
 
 
 
 ## Features
 
-- **Image and Video Support**: Seamlessly supports images and videos, including dynamically generated Blob URLs.
-- **Smooth Navigation**: Includes intuitive navigation with next/previous controls and keyboard arrow support.
-- **Zoom and Pan**: Offers responsive pinch-to-zoom and drag-to-pan functionalities for precise viewing.
-- **Customizable Options**: Highly configurable with user-defined callbacks and behaviors for a tailored experience.
-- **Autoplay**: Provides video autoplay functionality with customizable playback controls.
-- **Fullscreen Mode**: Supports toggling between fullscreen and standard viewing modes.
-- **Responsive Design**: Optimized for desktop and mobile devices, ensuring a seamless user experience.
+- **Image and Video Support**: Handles URLs and Blob data seamlessly.
+- **Navigation**: Easy next/previous controls and arrow key navigation.
+- **Zoom & Pan**: Pinch-to-zoom and drag-to-pan.
+- **Customizable**: Supports callbacks for tailored behavior.
+- **Autoplay**: Video playback with control options
+- **Fullscreen**: Toggle between fullscreen and normal modes.
+- **Responsive**: Works flawlessly on desktops and mobiles.
 
 
 
